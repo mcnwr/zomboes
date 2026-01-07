@@ -50,6 +50,8 @@ If you have the source code and want to run it locally:
 
 ## 🌐 Web Version (WASM)
 
+**Play the live version here:** [https://mcnwr.itch.io/zomboes](https://mcnwr.itch.io/zomboes)
+
 This game can also be played directly in a browser! Simply open the `index.html` file after building with `trunk`.
 
 ---
